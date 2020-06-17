@@ -1,1 +1,3 @@
-post.author.name
+class Post
+  attr_accessor :title, :author
+end
