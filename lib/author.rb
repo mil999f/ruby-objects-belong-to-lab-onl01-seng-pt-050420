@@ -1,1 +1,3 @@
-song.author.name
+class Author
+  attr_accessor :name
+end
